@@ -1,0 +1,6 @@
+/.settings
+/target
+/.classpath
+/.project
+/createDDL.jdbc
+/dropDDL.jdbc
